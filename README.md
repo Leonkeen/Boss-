@@ -4,3 +4,10 @@ Boss直聘手机上聊天,所以想着在电脑上爬取下公司的详细信息
 算是有点苦手吧, 但是磕磕碰碰的算是下载好了.
 ![爬取结果preview](https://github.com/Leonkeen/Boss-/assets/51162998/14574e3f-d812-456c-aaa2-40896e1eff83)
 右边是..敏感的信息岗位薪资等,我就没截图了.
+需要的插件 requirement
+selenium
+pandas
+csv
+需要特别注意版本号,chromedriver是真的有点小坑.
+像我用的就得是 pip install selenium==4.1
+然后chromedriver我用的是配合chrome版本114的.
